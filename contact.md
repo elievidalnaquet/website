@@ -19,5 +19,5 @@ elements:
 ## Office address
 
 |:--------:|:-------:|
-|  _Aix-Marseille School of Economics <br />  5-9 Boulevard Maurice Bourdet, CS 50498 <br /> 13205 Marseille Cedex 1   <br /> Office 2-25_  | _Paris School of Economics <br />  48 boulevard Jourdan <br />   75014 Paris <br /> Office R3-55_ |
+|  _Aix-Marseille School of Economics <br />  5-9 Boulevard Maurice Bourdet, CS 50498 <br /> 13205 Marseille Cedex 1   <br /> Office 2-25_  
 

@@ -10,7 +10,6 @@ elements:
   - markup  
 ---
 
-# Conferences and Seminars
 
 **2023:**
   * ADRES - Paris Dauphine University

@@ -12,7 +12,9 @@ elements:
 ---
 # Publication
 ### [Why are Low-skilled Workers less Mobile? The Role of Mobility Costs and Spatial Frictions](https://www.jstor.org/stable/10.15609/annaeconstat2009.142.0283#metadata_info_tab_contents) Annals of Economics and Statistics, 2021, 142, pp. 283-304
-##### with  [Benoit Schmutz](https://sites.google.com/site/benoitschmutz/) [Modibo Sidibé](https://sites.google.com/site/modibsidibe/)  
+##### with  [Benoit Schmutz](https://sites.google.com/site/benoitschmutz/) and [Modibo Sidibé](https://sites.google.com/site/modibsidibe/)  
+##### This paper was awarded the [ADRES young paper award 2021](https://www.dropbox.com/s/wvm6zh6x7clzps2/AES_ADRES.pdf?dl=0).
+
 
 * **Abstract:** Workers’ propensity to migrate to another local labor market varies a lot by occupation. We use the model developed by Schmutz and Sidibé (2019) to quantify the impact of mobility costs and search frictions on this mobility gap. We estimate the
 model on a matched employer-employee panel dataset describing labor market transitions within and between the 30 largest French cities for two groups at both ends
@@ -20,16 +22,14 @@ of the occupational spectrum and find that: (i) mobility costs are very comparab
 the two groups, so they are three times higher for blue-collar workers relative to their
 respective expected income; (ii) Depending on employment status, spatial frictions
 are between 2 and 3 times higher for blue-collar workers; (iii) Moving subsidies have
-little (and possibly negative) impact on the mobility gap, contrary to policies targeting spatial frictions; (iv) Mobility-enhancing policies have almost no impact on the
-unemployment gap.
+little (and possibly negative) impact on the mobility gap, contrary to policies targeting spatial frictions; (iv) Mobility-enhancing policies have almost no impact on the unemployment gap.
 {: .text-justify}
+#######Presentation: AMSE PhD seminar (2020), UEA virtual meeting (2020). 
 # Work in progress
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### [The multiple dimensions of selection into employment](https://www.amse-aixmarseille.fr/sites/default/files/working_papers/wp_2022_-_nr_19.pdf)
-
-##### Revise and Resubmit at Labour Economics  
+### [Commuting cost and Job-search]
 
   * **Abstract:** A vast literature on gender wage gaps has examined the importance of selection into employment. However, most analyses have focused only on female labour force participation and gaps at the median. The Great Recession questions this approach both because of the major shift in male employment that it implied but also because women’s decisions to participate seem to have been different along the distribution, particularly due to an “added worker effect”. This paper uses the methodology proposed by Arellano and Bonhomme (2017) to estimate a quantile selection model over the period 2007-2018. Using a tax and benefit mi- crosimulation model, I compute an instrument capturing the male selection induced by the crisis as well as female decisions: the potential out-of-work income. Since my instrument is crucially determined by the welfare state, I consider three countries with notably different benefit systems – the UK, France and Finland. My results imply different selection patterns across countries and a sizeable male selection in France and the UK. Correction for selection bias lowers the gender wage gap and, in most recent years, reveals an increasing shape of gender gap distribution with a substantial glass ceiling for the three countries.  
 {: .text-justify}

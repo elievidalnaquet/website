@@ -11,7 +11,9 @@ elements:
 
 ---
 # Publication
-### [Why are Low-skilled Workers less Mobile? The Role of Mobility Costs and Spatial Frictions](https://www.jstor.org/stable/10.15609/annaeconstat2009.142.0283#metadata_info_tab_contents)
+### [Why are Low-skilled Workers less Mobile? The Role of Mobility Costs and Spatial Frictions](https://www.jstor.org/stable/10.15609/annaeconstat2009.142.0283#metadata_info_tab_contents) Annals of Economics and Statistics, 2021, 142, pp. 283-304
+##### with  [Benoit Schmutz](https://sites.google.com/site/benoitschmutz/) [Modibo Sidibé](https://sites.google.com/site/modibsidibe/)  
+
 * **Abstract:** Workers’ propensity to migrate to another local labor market varies a lot by occupation. We use the model developed by Schmutz and Sidibé (2019) to quantify the impact of mobility costs and search frictions on this mobility gap. We estimate the
 model on a matched employer-employee panel dataset describing labor market transitions within and between the 30 largest French cities for two groups at both ends
 of the occupational spectrum and find that: (i) mobility costs are very comparable in

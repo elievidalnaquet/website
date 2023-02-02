@@ -41,14 +41,11 @@ transport at the communal level. I find that a 10pp increase in the treatment in
 increases the commuting distance by 3.2% and the hourly wage by 0.5%. The effect is
 stronger for women and low-paid workers.   
 {: .text-justify}
-* **Presentation:** AMSE PhD seminar, UEA 2022 (London), EALE 2022 (Padova), IRES Lunch Seminar (Louvain la Neuve), IAAE 2022 (London), LAGV 2022 (Marseille), 4th Meeting on Transport Economics and Infrastructure (Barcelona), Workshop on spatial inequalities (Paris-Saclay), ADRES 2023 (Paris).
-* 
-* ---------------------------------------------------------------------------------------------------------------------------------------------------------------
+* Presentation:AMSE PhD seminar, UEA 2022 (London), EALE 2022 (Padova), IRES Lunch Seminar (Louvain la Neuve), IAAE 2022 (London), LAGV 2022 (Marseille), 4th Meeting on Transport Economics and Infrastructure (Barcelona), Workshop on spatial inequalities (Paris-Saclay), ADRES 2023 (Paris).
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-### What do women want in a job? Gender-biased preferences and the reservation wage gap 
-
-##### Draft available upon request
-
-  * **Abstract:** Recent explanations of the gender wage gap emphasize the role of gender differences in psychological traits. Nevertheless, there have been only a limited number of studies confirming the relevance of these factors for labour market outcomes. This paper assesses the role of gender specific preferences in the reservation wage gap during the job search. I use French administrative data from the unemployment insurance agency providing information on job search behaviour and previous outcomes to assess which kind of occupations men and women apply for and the gap in their reservation wages. Employing text analysis, I build a novel dataset classifying occupations with respect to a number of characteristics and examine to which extent men and women differ in the occupation they are looking for.  I document widespread gender differences in the occupation characteristics targeted by job seekers. Quantile decomposition methods allow me to document an unequal gap in reservation wage, intensifying along the distribution. After adjusting for occupation characteristics reflecting gender-biased preferences and household constraints, the unexplained part of the reservation wage gap is decreased by half. Investigating unemployment history and outcomes from previous interviews with firms, I do not find evidence of a female risk aversion to previous unemployment shocks or male overconfidence.
+### Firm Market power and the World of Work
+##### with [Jan-Luca Hennig](https://sites.google.com/tcd.ie/janlucahennig/home)
+* Presentation: AMSE PhD seminar, Universitat de Barcelona - Economic Theory Seminar
 {: .text-justify}

@@ -16,7 +16,6 @@ elements:
   * AMSE PhD seminar
   
 **2022:** 
-  * EDGE Jamboree Conference
   * European Association of Labour Economists Conference 2022 (EALE)
   * International Association for Applied Econometrics (IAAE) Conference 2022
   * LAGV 2022

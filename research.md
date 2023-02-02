@@ -23,14 +23,14 @@ the two groups, so they are three times higher for blue-collar workers relative 
 respective expected income; (ii) Depending on employment status, spatial frictions
 are between 2 and 3 times higher for blue-collar workers; (iii) Moving subsidies have
 little (and possibly negative) impact on the mobility gap, contrary to policies targeting spatial frictions; (iv) Mobility-enhancing policies have almost no impact on the unemployment gap.
-* Presentation: AMSE PhD seminar (2020), UEA virtual meeting (2020). 
+* Presentations: AMSE PhD seminar (2020), UEA virtual meeting (2020). 
 {: .text-justify}
 
 # Work in progress
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### [Commuting cost and Job-search]
+### Commuting cost and Job-search
 ##### Draft available upon request
 
   * **Abstract:** mong a series of environmental measures taken in 2008, the French government implemented 2009 the half-reimbursement by the employer of the public transport costs.
@@ -41,11 +41,11 @@ transport at the communal level. I find that a 10pp increase in the treatment in
 increases the commuting distance by 3.2% and the hourly wage by 0.5%. The effect is
 stronger for women and low-paid workers.   
 {: .text-justify}
-* Presentation:AMSE PhD seminar, UEA 2022 (London), EALE 2022 (Padova), IRES Lunch Seminar (Louvain la Neuve), IAAE 2022 (London), LAGV 2022 (Marseille), 4th Meeting on Transport Economics and Infrastructure (Barcelona), Workshop on spatial inequalities (Paris-Saclay), ADRES 2023 (Paris).
+* Presentations: AMSE PhD seminar, UEA 2022 (London), EALE 2022 (Padova), IRES Lunch Seminar (Louvain la Neuve), IAAE 2022 (London), LAGV 2022 (Marseille), 4th Meeting on Transport Economics and Infrastructure (Barcelona), Workshop on spatial inequalities (Paris-Saclay), ADRES 2023 (Paris).
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 ### Firm Market power and the World of Work
 ##### with [Jan-Luca Hennig](https://sites.google.com/tcd.ie/janlucahennig/home)
-* Presentation: AMSE PhD seminar, Universitat de Barcelona - Economic Theory Seminar
+* Presentations: AMSE PhD seminar, Universitat de Barcelona - Economic Theory Seminar
 {: .text-justify}

@@ -31,7 +31,7 @@ little (and possibly negative) impact on the mobility gap, contrary to policies 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Commuting cost and Job-search
-##### Draft available upon request
+ Draft available upon request
 
   * **Abstract:** mong a series of environmental measures taken in 2008, the French government implemented 2009 the half-reimbursement by the employer of the public transport costs.
 This paper aims to estimate the effect of a decrease in commuting costs on job search
@@ -39,9 +39,9 @@ behavior, using an administrative database with information on employment and un
 employment spell. I use an event-study design exploiting variation in the use of public
 transport at the communal level. I find that a 10pp increase in the treatment intensity
 increases the commuting distance by 3.2% and the hourly wage by 0.5%. The effect is
-stronger for women and low-paid workers.   
-{: .text-justify}
+stronger for women and low-paid workers. 
 * Presentations: AMSE PhD seminar, UEA 2022 (London), EALE 2022 (Padova), IRES Lunch Seminar (Louvain la Neuve), IAAE 2022 (London), LAGV 2022 (Marseille), 4th Meeting on Transport Economics and Infrastructure (Barcelona), Workshop on spatial inequalities (Paris-Saclay), ADRES 2023 (Paris).
+{: .text-justify}
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 

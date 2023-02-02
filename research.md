@@ -23,8 +23,9 @@ the two groups, so they are three times higher for blue-collar workers relative 
 respective expected income; (ii) Depending on employment status, spatial frictions
 are between 2 and 3 times higher for blue-collar workers; (iii) Moving subsidies have
 little (and possibly negative) impact on the mobility gap, contrary to policies targeting spatial frictions; (iv) Mobility-enhancing policies have almost no impact on the unemployment gap.
+####Presentation: AMSE PhD seminar (2020), UEA virtual meeting (2020). 
 {: .text-justify}
-#######Presentation: AMSE PhD seminar (2020), UEA virtual meeting (2020). 
+
 # Work in progress
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------

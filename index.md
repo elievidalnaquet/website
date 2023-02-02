@@ -25,7 +25,7 @@ elements:
 
 * In 2022, I was a visiting scholar at the spatial economics department at VU Amsterdam, sponsored by Jos Van Ommeren.
 
-* You can view my [CV here](https://elasskenza.github.io/website/cv/) and learn more about and my [research here](https://elievidalnaquet.github.io/website/research/).
+* You can view my [CV here](https://elievidalnaquet.github.io/website/cv/) and learn more about and my [research here](https://elievidalnaquet.github.io/website/research/).
 
 
 <i class="fa fa-envelope"></i> **Contact**: elie.vidal-naquet@univ-amu.fr | elie.vidalnaquet@gmail.com 

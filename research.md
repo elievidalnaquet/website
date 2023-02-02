@@ -23,14 +23,11 @@ are between 2 and 3 times higher for blue-collar workers; (iii) Moving subsidies
 little (and possibly negative) impact on the mobility gap, contrary to policies targeting spatial frictions; (iv) Mobility-enhancing policies have almost no impact on the unemployment gap.
 *    **Presentations**: AMSE PhD seminar (2020), UEA virtual meeting (2020). 
 {: .text-justify}
-
-# Work in progress
-
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+# Work in progress
 ### Commuting cost and Job-search
  Draft available upon request
-
   * **Abstract:** mong a series of environmental measures taken in 2008, the French government implemented 2009 the half-reimbursement by the employer of the public transport costs.
 This paper aims to estimate the effect of a decrease in commuting costs on job search
 behavior, using an administrative database with information on employment and un-
@@ -40,8 +37,6 @@ increases the commuting distance by 3.2% and the hourly wage by 0.5%. The effect
 stronger for women and low-paid workers. 
 * **Presentations**: AMSE PhD seminar, UEA 2022 (London), EALE 2022 (Padova), IRES Lunch Seminar (Louvain la Neuve), IAAE 2022 (London), LAGV 2022 (Marseille), 4th Meeting on Transport Economics and Infrastructure (Barcelona), Workshop on spatial inequalities (Paris-Saclay), ADRES 2023 (Paris).
 {: .text-justify}
----------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 
 ### Firm Market power and the World of Work
 ##### with [Jan-Luca Hennig](https://sites.google.com/tcd.ie/janlucahennig/home)

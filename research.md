@@ -24,11 +24,18 @@ little (and possibly negative) impact on the mobility gap, contrary to policies 
 *    **Presentations**: AMSE PhD seminar (2020), UEA virtual meeting (2020). 
 {: .text-justify}
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Working Paper
+### [Diffusion of Broadband Internet and Firm Market Power in Output and Labor Markets] (https://drive.google.com/file/d/1hc9XPALL72PhgyrGtWpKcdsQbxBnKE9c/view)
+##### with [Jan-Luca Hennig](https://sites.google.com/tcd.ie/janlucahennig/home)
+  * **Abstract:** We investigate how broadband internet access affects firms market power in both product and labor markets. Combining balance sheet data for firms with matched employer-employee data, we estimate firm-level markups and markdowns. We find substantial differences across sectors and firms in the level of both markups and markdowns. For our difference-in-differences design, we exploit the staggered introduction of broadband internet in France in the early 2000s. We provide evidence that access to broadband internet increases markups. This is particularly true when firms are able to exploit the new technology to reap benefits from globalization, both through cheaper inputs and more export activity. We also show that the most productive firms primarily raise their markups in re/sponse to obtaining access to broadband internet. At the same time, markdowns fall when firms obtain access to fast internet due to more efficient worker representation. Further, we provide evidence that the internet leveled the playing field between low- and high-skilled workers. This is because low-skilled workers profit more from changing employers.
+* **Presentations**: AMSE PhD seminar, Universitat de Barcelona - Economic Theory Seminar, AMSE eco-lunch, HEC research seminar, ASSET.
+{: .text-justify}
+
 
 # Work in progress
 ### Commuting cost and Job-search
  Draft available upon request
-  * **Abstract:** mong a series of environmental measures taken in 2008, the French government implemented 2009 the half-reimbursement by the employer of the public transport costs.
+  * **Abstract:** Among a series of environmental measures taken in 2008, the French government implemented 2009 the half-reimbursement by the employer of the public transport costs.
 This paper aims to estimate the effect of a decrease in commuting costs on job search
 behavior, using an administrative database with information on employment and un-
 employment spell. I use an event-study design exploiting variation in the use of public
@@ -38,7 +45,12 @@ stronger for women and low-paid workers.
 * **Presentations**: AMSE PhD seminar, UEA 2022 (London), EALE 2022 (Padova), IRES Lunch Seminar (Louvain la Neuve), IAAE 2022 (London), LAGV 2022 (Marseille), 4th Meeting on Transport Economics and Infrastructure (Barcelona), Workshop on spatial inequalities (Paris-Saclay), ADRES 2023 (Paris).
 {: .text-justify}
 
-### Firm Market power and the World of Work
+### Firm market power, wage inequality and sorting
 ##### with [Jan-Luca Hennig](https://sites.google.com/tcd.ie/janlucahennig/home)
-* **Presentations**: AMSE PhD seminar, Universitat de Barcelona - Economic Theory Seminar
-{: .text-justify}
+
+### Sorting After Motherhood: Low-Markup or High-Markdown Firms? 
+##### with [Jan-Luca Hennig](https://sites.google.com/tcd.ie/janlucahennig/home)
+
+
+
+

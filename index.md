@@ -15,7 +15,7 @@ elements:
   - markup  
   
 ---
-
+ I am a **Post doctoral Fellow** in economics at the Economics and Decision Sciences, HEC Paris.  I am participating in the [CITELAB](https://sites.google.com/hec.fr/tomasz-michalski/research/citelab-anr-project)) (ANR) Project.  
  I am a **PhD candidate** in economics at the [Aix Marseille School of Economics](https://www.amse-aixmarseille.fr/en/members/vidal-naquet) (AMSE) 
 {: .notice--accent}
 

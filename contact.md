@@ -20,5 +20,11 @@ elements:
 ## Office address
 
 |:--------:|:-------:|
-|  _Aix-Marseille School of Economics <br />  5-9 Boulevard Maurice Bourdet, CS 50498 <br /> 13205 Marseille Cedex 1   <br /> Office 2-25_  
+HEC Paris
+
+building V, office 201
+
+1 rue de la Libération
+
+78351 Jouy-en-Josas cedex, FRANCE
 

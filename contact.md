@@ -12,7 +12,8 @@ elements:
   - markup  
 ---
 
-<i class="fa fa-envelope"></i> Don't hesitate to contact me at **[elie.vidal-naquet@univ-amu.fr](mailto:elie.vidal-naquet@univ-amu.fr)**
+<i class="fa fa-envelope"></i> Don't hesitate to contact me at **[elie.vidal-naquet@external.hec.fr](mailto:elie.vidal-naquet@external.hec.fr) or [elie.vidalnaquet@gmail.com](mailto:elie.vidalnaquet@gmail.com)**
+
 
 
  

@@ -51,6 +51,8 @@ stronger for women and low-paid workers.
 ### Sorting After Motherhood: Low-Markup or High-Markdown Firms? 
 ##### with [Jan-Luca Hennig](https://sites.google.com/tcd.ie/janlucahennig/home)
 
+### Mass layoffs and local monopsony power? 
+
 
 
 

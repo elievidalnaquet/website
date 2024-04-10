@@ -28,5 +28,5 @@ elements:
 * You can view my [CV here](https://elievidalnaquet.github.io/website/cv/) and learn more about and my [research here](https://elievidalnaquet.github.io/website/research/).
 
 
-<i class="fa fa-envelope"></i> **Contact**: elie.vidal-naquet@univ-amu.fr | elie.vidalnaquet@gmail.com 
+<i class="fa fa-envelope"></i> **Contact**: elie.vidal-naquet@external.hec.fr | elie.vidalnaquet@gmail.com 
 {: .notice}

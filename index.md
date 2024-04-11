@@ -1,7 +1,6 @@
 ---
 layout: home
 title: "Elie Vidal-Naquet"
-subtitle: "PhD candidate at the Aix Marseille School of Economics"
 limit: 10
 show_excerpts: true
 entries_layout: list

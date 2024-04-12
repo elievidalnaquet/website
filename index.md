@@ -1,6 +1,7 @@
 ---
 layout: home
 title: "Elie Vidal-Naquet"
+subtitle: "**Post doctoral Fellow** at HEC Paris"
 limit: 10
 show_excerpts: true
 entries_layout: list

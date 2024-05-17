@@ -47,6 +47,10 @@ stronger for women and low-paid workers.
 
 ### Mass layoffs and local monopsony power
 * **Abstract:** In this paper, I investigate the impact of mass layoffs on firms' monopsony power within (very) local labor markets. I find substantial differences across regions and sectors in the level of markdowns. With a sample of French firms, I estimate firm-level markdowns as a proxy for their monopsony power. Exhaustive matched employer-employee data enable me to identify mass layoffs. I use a difference-in-differences methodology relying on the assumption that exposure to the shock decreases with distance. The first results suggest that mass layoffs increase by 4\% local firms' markdowns, with a more pronounced effect observed for firms close to the mass layoff (less than 2.5 km). Furthermore, this impact is stronger in less densely populated areas, highlighting how shocks to local markets exacerbate disparities in monopsony power between regions.
+  **Presentations**: HEC Brown bag seminar (Paris).
+
+{: .text-justify}
+
 ### Firm market power, wage inequality and sorting
 ##### with [Jan-Luca Hennig](https://sites.google.com/tcd.ie/janlucahennig/home)
 

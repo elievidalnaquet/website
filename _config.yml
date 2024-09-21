@@ -20,7 +20,7 @@ locale: en-US
 
 title: Elie Vidal-Naquet
 email: elie.vidal-naquet@univ-amu.fr
-description: "PhD candidate in Urban and Labor Economics at the Aix-Marseille School of Economics."
+description: "Post-doctoral Fellow at HEC Paris."
 
 baseurl: # the subpath of your site, e.g. "/blog"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -114,12 +114,13 @@ defaults:
 author:
   name   : "Elie Vidal-Naquet"
   avatar : ""
-  bio    : "PhD candidate in Urban and Labor Economics at the Aix-Marseille School of Economics."
+  bio    : "Post-doctoral Fellow at HEC Paris."
+  
   location : "France"
   links:
    - label: "Email"
      icon: "fas fa-fw fa-envelope-square"
-     url: "mailto:elie.vidal-naquet@univ-amu.fr"
+     url: "mailto:elie.vidal-naquet@external.hec.fr"
      
 footer:
   links:   

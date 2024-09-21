@@ -39,7 +39,7 @@ little (and possibly negative) impact on the mobility gap, contrary to policies 
 {: .text-justify}
 
 
-### [Commuting cost and Job-search](https://www.dropbox.com/scl/fi/0t90md5na51vzy2jgnx31/evn_commuting-1.pdf?rlkey=piridq4ve2m4rvpjygmgu3s76&st=wxqnfxdq&dl=0)
+### [Commuting cost and Spatial Job-search](https://www.dropbox.com/scl/fi/0t90md5na51vzy2jgnx31/evn_commuting-1.pdf?rlkey=piridq4ve2m4rvpjygmgu3s76&st=wxqnfxdq&dl=0)
   * **Abstract:** Among a series of environmental measures taken in 2008, the French government implemented 2009 the half-reimbursement by the employer of the public transport costs.
 This paper aims to estimate the effect of a decrease in commuting costs on job search
 behavior, using an administrative database with information on employment and un-

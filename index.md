@@ -28,7 +28,7 @@ I am currently on **the 2024-25 job market!**.
 
 * You can view my [CV here](https://elievidalnaquet.github.io/website/cv/) and learn more about and my [research here](https://elievidalnaquet.github.io/website/research/).
 
-**References**
+**References:**
 [Tomasz Michalski](https://sites.google.com/hec.fr/tomasz-michalski/home) 
 [Christian Schluter](https://christianschluter.github.io/)
 [Benoit Schmutz](https://sites.google.com/site/benoitschmutz/home)

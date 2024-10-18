@@ -19,7 +19,7 @@ elements:
  
 ## Office address
 
-|:--------:|:-------:|
+
 HEC Paris
 
 building V, office 201

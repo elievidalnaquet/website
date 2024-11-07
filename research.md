@@ -61,7 +61,8 @@ stronger for women and low-paid workers.
 ##### with [Jan-Luca Hennig](https://sites.google.com/tcd.ie/janlucahennig/home)
 
 ### Returns to Experience Across and Within Cities
-##### 
+##### with [Donald Davis](https://sites.google.com/site/drdavis001/), [Eric Mengus](https://sites.google.com/site/ericmengus/), and [Tomasz Michalski](https://sites.google.com/hec.fr/tomasz-michalski/home)
+
 * **Presentations**: Firm and cities Workshop, HEC Paris.
 {: .text-justify}
 

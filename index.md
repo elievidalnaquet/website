@@ -1,7 +1,6 @@
 ---
 layout: home
 title: "Elie Vidal-Naquet"
-subtitle: "Post doctoral Fellow at GREGHEC, HEC Paris"
 limit: 10
 show_excerpts: true
 entries_layout: list

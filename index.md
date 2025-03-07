@@ -1,7 +1,7 @@
 ---
 layout: home
 title: "Elie Vidal-Naquet"
-subtitle: "Post doctoral Fellow at HEC Paris"
+subtitle: "Post doctoral Fellow at GREGHEC, HEC Paris"
 limit: 10
 show_excerpts: true
 entries_layout: list
@@ -18,7 +18,7 @@ elements:
 I am currently on **the 2024-25 job market!**
 
 
- I am a **Post doctoral Fellow** at the Economics and Decision Sciences Department, HEC Paris.  I am participating in the [CITELAB](https://sites.google.com/hec.fr/tomasz-michalski/research/citelab-anr-project) (ANR) Project with [Tomasz Michalski](https://sites.google.com/hec.fr/tomasz-michalski/home), [Eric Mengus](https://sites.google.com/site/ericmengus/), [Donald Davis](https://sites.google.com/site/drdavis001/) and Rui Li.  
+ I am a **Post doctoral Fellow** at GREGHEC, HEC Paris.  I am participating in the [CITELAB](https://sites.google.com/hec.fr/tomasz-michalski/research/citelab-anr-project) (ANR) Project with [Tomasz Michalski](https://sites.google.com/hec.fr/tomasz-michalski/home), [Eric Mengus](https://sites.google.com/site/ericmengus/), [Donald Davis](https://sites.google.com/site/drdavis001/) and Rui Li.  
  
 
  I hold a  **PhD** in economics from the [Aix Marseille School of Economics](https://www.amse-aixmarseille.fr/en/members/vidal-naquet) (AMSE) 

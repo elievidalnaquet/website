@@ -20,7 +20,7 @@ locale: en-US
 
 title: Elie Vidal-Naquet
 email: elie.vidal-naquet@univ-amu.fr
-description: "Post-doctoral Fellow at HEC Paris."
+description: "Post-doctoral Fellow at CNRS, GREGHEC, HEC Paris."
 
 baseurl: # the subpath of your site, e.g. "/blog"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"

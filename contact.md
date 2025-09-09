@@ -12,7 +12,7 @@ elements:
   - markup  
 ---
 
-<i class="fa fa-envelope"></i> Don't hesitate to contact me at **[elie.vidal-naquet@external.hec.fr](mailto:elie.vidal-naquet@external.hec.fr) or [elie.vidalnaquet@gmail.com](mailto:elie.vidalnaquet@gmail.com)**
+<i class="fa fa-envelope"></i> Don't hesitate to contact me at **[elie.vidal-naquet@dauphine.psl.eu](mailto:elie.vidal-naquet@dauphine.psl.eu) or [elie.vidalnaquet@gmail.com](mailto:elie.vidalnaquet@gmail.com)**
 
 
 
@@ -20,11 +20,8 @@ elements:
 ## Office address
 
 
-HEC Paris
-
-building V, office 201
-
-1 rue de la Libération
-
-78351 Jouy-en-Josas cedex, FRANCE
+Université Paris-Dauphine
+P163 LEDa
+Pl. du Maréchal de Lattre de Tassigny,
+75016 Paris
 

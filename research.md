@@ -39,14 +39,8 @@ little (and possibly negative) impact on the mobility gap, contrary to policies 
 {: .text-justify}
 
 
-### [Commuting cost and Spatial Job-search](https://www.dropbox.com/scl/fi/0t90md5na51vzy2jgnx31/evn_commuting-1.pdf?rlkey=piridq4ve2m4rvpjygmgu3s76&st=wxqnfxdq&dl=0)
-  * **Abstract:** Among a series of environmental measures taken in 2008, the French government implemented 2009 the half-reimbursement by the employer of the public transport costs.
-This paper aims to estimate the effect of a decrease in commuting costs on job search
-behavior, using an administrative database with information on employment and un-
-employment spell. I use an event-study design exploiting variation in the use of public
-transport at the communal level. I find that a 10pp increase in the treatment intensity
-increases the commuting distance by 3.2% and the hourly wage by 0.5%. The effect is
-stronger for women and low-paid workers. 
+### [Commuting Costs and Spatial Job Search: Evidence from a French Public Transport Reimbursement Reform](https://www.dropbox.com/scl/fi/0t90md5na51vzy2jgnx31/evn_commuting-1.pdf?rlkey=piridq4ve2m4rvpjygmgu3s76&st=wxqnfxdq&dl=0)
+  * **Abstract:** Among a series of environmental measures adopted in 2008, the French government introduced in 2009 a policy requiring employers to reimburse half of employees’ public transport costs. This paper estimates how lower monetary commuting costs affect job search behavior using administrative data on employment and unemployment spells. I build a sample of unemployment-to-employment transitions for workers close to the minimum wage and exploit municipality-level variation in pre-reform public transport use in an event-study framework. A 10 percentage point increase in reform exposure raises commuting distance by 4.4% and hourly wages by 0.5%. These effects decline with wages and are much stronger for men, while the estimates for women are small and not statistically significant.
 * **Presentations**: AMSE PhD seminar, UEA 2022 (London), EALE 2022 (Padova), IRES Lunch Seminar (Louvain la Neuve), IAAE 2022 (London), LAGV 2022 (Marseille), EALE 2022, 4th Meeting on Transport Economics and Infrastructure (Barcelona), Workshop on spatial inequalities (Paris-Saclay), ADRES 2023 (Paris), LAGV 2023, UEA 2023 (Milan).
 {: .text-justify}
 

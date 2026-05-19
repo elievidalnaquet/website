@@ -51,13 +51,10 @@ little (and possibly negative) impact on the mobility gap, contrary to policies 
 * **Presentations**: AMSE PhD seminar.
 {: .text-justify}
 
-### Sorting After Motherhood: Low-Markup or High-Markdown Firms? 
-##### with [Jan-Luca Hennig](https://sites.google.com/tcd.ie/janlucahennig/home)
-
 ### Returns to Experience Across and Within Cities
 ##### with [Donald Davis](https://sites.google.com/site/drdavis001/), [Eric Mengus](https://sites.google.com/site/ericmengus/), and [Tomasz Michalski](https://sites.google.com/hec.fr/tomasz-michalski/home)
 
-* **Presentations**: Firm and cities Workshop, HEC Paris.
+* **Presentations**: Firm and cities Workshop, HEC Paris, Université Paris-Dauphine, PPCR Workshop, Lyon, Chicago Booth, UEA Barcelona
 {: .text-justify}
 
 

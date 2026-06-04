@@ -10,7 +10,20 @@ elements:
   - markup  
 
 ---
-# Job Market Paper 
+# Working Papers
+
+### [Diffusion of Broadband Internet and Firm Market Power in Output and Labor Markets](https://www.dropbox.com/scl/fi/5ai17yvx5tmxe1k1fz6we/Diffusion-of-Broadband-Internet-and-Firm-Market-Power-in-Output-and-Labor-Markets-6-1.pdf?rlkey=ynlt61230pssphq6zw6azrvzk&st=bgv5ppsw&dl=0)
+##### with [Jan-Luca Hennig](https://sites.google.com/tcd.ie/janlucahennig/home)
+  * **Abstract:** We investigate how broadband internet access affects firms market power in both product and labor markets. Combining balance sheet data for firms with matched employer-employee data, we estimate firm-level markups and markdowns. We find substantial differences across sectors and firms in the level of both markups and markdowns. For our difference-in-differences design, we exploit the staggered introduction of broadband internet in France in the early 2000s. We provide evidence that access to broadband internet increases markups. This is particularly true when firms are able to exploit the new technology to reap benefits from globalization, both through cheaper inputs and more export activity. We also show that the most productive firms primarily raise their markups in re/sponse to obtaining access to broadband internet. At the same time, markdowns fall when firms obtain access to fast internet due to more efficient worker representation. Further, we provide evidence that the internet leveled the playing field between low- and high-skilled workers. This is because low-skilled workers profit more from changing employers.
+* **Presentations**: AMSE PhD seminar, Universitat de Barcelona - Economic Theory Seminar, AMSE eco-lunch, HEC research seminar, ASSET, EALE 2024, JMA 2024.
+{: .text-justify}
+
+
+### [Commuting Costs and Spatial Job Search: Evidence from a French Public Transport Reimbursement Reform](https://www.dropbox.com/scl/fi/0t90md5na51vzy2jgnx31/evn_commuting-1.pdf?rlkey=piridq4ve2m4rvpjygmgu3s76&st=wxqnfxdq&dl=0)
+  * **Abstract:** Among a series of environmental measures adopted in 2008, the French government introduced in 2009 a policy requiring employers to reimburse half of employees’ public transport costs. This paper estimates how lower monetary commuting costs affect job search behavior using administrative data on employment and unemployment spells. I build a sample of unemployment-to-employment transitions for workers close to the minimum wage and exploit municipality-level variation in pre-reform public transport use in an event-study framework. A 10 percentage point increase in reform exposure raises commuting distance by 4.4% and hourly wages by 0.5%. These effects decline with wages and are much stronger for men, while the estimates for women are small and not statistically significant.
+* **Presentations**: AMSE PhD seminar, UEA 2022 (London), EALE 2022 (Padova), IRES Lunch Seminar (Louvain la Neuve), IAAE 2022 (London), LAGV 2022 (Marseille), EALE 2022, 4th Meeting on Transport Economics and Infrastructure (Barcelona), Workshop on spatial inequalities (Paris-Saclay), ADRES 2023 (Paris), LAGV 2023, UEA 2023 (Milan).
+{: .text-justify}
+
 ### [Mass layoffs and local monopsony power](https://www.dropbox.com/scl/fi/cyp6qkl8bov7t5s2ble81/JMP_VidalNaquet.pdf?rlkey=miv2mwkihvvphtl3re5leowum&dl=0)
 * **Abstract:** This paper investigates the impact of mass layoffs on firms’ wage-setting power within local labor markets. Using a sample of French firms, I estimate firm-level markdowns - the ratio of marginal revenue product of labor over wages – capturing monopsony power. Using exhaustive matched employer-employee data to identify mass layoffs. I use a difference-in-differences strategy to estimate the effect of mass layoff on markdowns. Mass layoffs increase local firms’ markdowns by 3%, with a more pronounced effect observed for firms close to the mass layoff (less than 2.5 km). This impact is stronger in less dense local labor markets, implying shocks to local markets exacerbate disparities in monopsony power between regions. This increase in monopsony power is partly driven by displaced workers’ distaste for long-distance reallocation, increasing local firm market power.
   
@@ -31,20 +44,6 @@ little (and possibly negative) impact on the mobility gap, contrary to policies 
 *    **Presentations**: AMSE PhD seminar (2020), UEA virtual meeting (2020). 
 {: .text-justify}
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
-# Working Paper
-### [Diffusion of Broadband Internet and Firm Market Power in Output and Labor Markets](https://www.dropbox.com/scl/fi/5ai17yvx5tmxe1k1fz6we/Diffusion-of-Broadband-Internet-and-Firm-Market-Power-in-Output-and-Labor-Markets-6-1.pdf?rlkey=ynlt61230pssphq6zw6azrvzk&st=bgv5ppsw&dl=0)
-##### with [Jan-Luca Hennig](https://sites.google.com/tcd.ie/janlucahennig/home)
-  * **Abstract:** We investigate how broadband internet access affects firms market power in both product and labor markets. Combining balance sheet data for firms with matched employer-employee data, we estimate firm-level markups and markdowns. We find substantial differences across sectors and firms in the level of both markups and markdowns. For our difference-in-differences design, we exploit the staggered introduction of broadband internet in France in the early 2000s. We provide evidence that access to broadband internet increases markups. This is particularly true when firms are able to exploit the new technology to reap benefits from globalization, both through cheaper inputs and more export activity. We also show that the most productive firms primarily raise their markups in re/sponse to obtaining access to broadband internet. At the same time, markdowns fall when firms obtain access to fast internet due to more efficient worker representation. Further, we provide evidence that the internet leveled the playing field between low- and high-skilled workers. This is because low-skilled workers profit more from changing employers.
-* **Presentations**: AMSE PhD seminar, Universitat de Barcelona - Economic Theory Seminar, AMSE eco-lunch, HEC research seminar, ASSET, EALE 2024, JMA 2024.
-{: .text-justify}
-
-
-### [Commuting Costs and Spatial Job Search: Evidence from a French Public Transport Reimbursement Reform](https://www.dropbox.com/scl/fi/0t90md5na51vzy2jgnx31/evn_commuting-1.pdf?rlkey=piridq4ve2m4rvpjygmgu3s76&st=wxqnfxdq&dl=0)
-  * **Abstract:** Among a series of environmental measures adopted in 2008, the French government introduced in 2009 a policy requiring employers to reimburse half of employees’ public transport costs. This paper estimates how lower monetary commuting costs affect job search behavior using administrative data on employment and unemployment spells. I build a sample of unemployment-to-employment transitions for workers close to the minimum wage and exploit municipality-level variation in pre-reform public transport use in an event-study framework. A 10 percentage point increase in reform exposure raises commuting distance by 4.4% and hourly wages by 0.5%. These effects decline with wages and are much stronger for men, while the estimates for women are small and not statistically significant.
-* **Presentations**: AMSE PhD seminar, UEA 2022 (London), EALE 2022 (Padova), IRES Lunch Seminar (Louvain la Neuve), IAAE 2022 (London), LAGV 2022 (Marseille), EALE 2022, 4th Meeting on Transport Economics and Infrastructure (Barcelona), Workshop on spatial inequalities (Paris-Saclay), ADRES 2023 (Paris), LAGV 2023, UEA 2023 (Milan).
-{: .text-justify}
-
-
 # Work in progress
 ### Firm market power, wage inequality and sorting
 ##### with [Jan-Luca Hennig](https://sites.google.com/tcd.ie/janlucahennig/home)

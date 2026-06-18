@@ -114,16 +114,16 @@ defaults:
 author:
   name   : "Elie Vidal-Naquet"
   avatar : ""
-  bio    : "Post-doctoral Fellow at CNRS, GREGHEC, HEC Paris."
+  bio    : "Assistant Professor (MCF) at Paris-Dauphine Université"
   
   location : "France"
   links:
    - label: "Email"
      icon: "fas fa-fw fa-envelope-square"
-     url: "mailto:elie.vidal-naquet@external.hec.fr"
+     url: "mailto:elie.vidal-naquet@dauphine.psl.eu"
      
 footer:
   links:   
    - label: "Email"
      icon: "fas fa-fw fa-envelope-square"
-     url: "mailto:elie.vidal-naquet@univ-amu.fr"
+     url: "mailto:elie.vidal-naquet@dauphine.psl.eu"

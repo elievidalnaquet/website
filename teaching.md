@@ -10,7 +10,7 @@ elements:
   - markup  
 ---
 # HEC Paris 
-* <ins>2023 - 2014:</ins> **Macroeconomics**, Undergraduate-fr, 3rd year
+* <ins>2023 - 2024:</ins> **Macroeconomics**, Undergraduate-fr, 3rd year
 
 
 # Aix Marseille University

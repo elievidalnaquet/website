@@ -8,11 +8,21 @@ elements:
   - css
   - formatting
   - html
-  - markup  
+  - markup
 ---
-<div style="overflow: auto; -webkit-overflow-scrolling: touch;">
-    <iframe src="../assets/CV_EVN_updated.pdf" style="width: 100%; height: 80vh;" frameborder="0">
-        This browser does not support PDFs. Please download the PDF to view it: 
-        <a href="../assets/CV_EVN_updated.pdf">Download PDF</a>.
-    </iframe>
+
+<div style="width: 100%; height: 80vh;">
+  <object
+    data="{{ '/assets/CV_EVN_updated.pdf' | relative_url }}"
+    type="application/pdf"
+    width="100%"
+    height="100%">
+
+    <p>
+      The PDF cannot be displayed.
+      <a href="{{ '/assets/CV_EVN_updated.pdf' | relative_url }}">
+        Download my CV
+      </a>
+    </p>
+  </object>
 </div>
